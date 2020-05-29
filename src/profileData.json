@@ -1,0 +1,96 @@
+{
+    "landing": {
+        "firstName": "Sneha",
+        "lastName": "Santhosh",
+        "phoneNumber": "+1987654321",
+        "bio": "I am a software engineering student from Centennial college, Canada. I have completed undergraduate degree in Computer Science Engineering from Nehru College of Engineering and an advanced diploma in Artificial Intelligence from NIELIT,India",
+        "email": "snehasanthosh012@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/sneha-santhosh123",
+        "github": "https://github.com/Sneha-Santhosh"
+    },
+	"experience": [
+		{
+				"position": "Summer IT intern",
+				"organization": "Indian Railways",
+				"aboutWork": "Internship at the IT sector in Indian Railways",
+				"fromDate": "May 2017",
+				"toDate": "June 2017"
+		},
+		{
+			"position": "Software Intern",
+			"organization": "BSNL",
+			"aboutWork": "Software Internship in Central government's telecom company",
+			"fromDate": "April 2017",
+			"toDate": "May 2017"
+		}
+	],
+    "education": [
+        {
+            "university": "Centennial College",
+            "degree": "Advanced diploma in Software Engineering Technology",
+            "gpa": "4.08/4.5",
+            "fromDate": "September 2019",
+            "toDate": "December 2021"
+        },
+        {
+            "university": "National Institute of Electronics and Information Technology",
+            "degree": "Advanced diploma in Artificial Intelligence",
+            "gpa": "8.6/10",
+            "fromDate": "October 2018",
+            "toDate": "January 2019"
+        },
+        {
+            "university": "Nehru college of Engineering and Research Centre",
+            "degree": "Bachelor of Technology in Computer Science Engineering",
+            "gpa": "8.02/10",
+            "fromDate": "August 2014",
+            "toDate": "April 2018"
+        }
+    ],
+	"skills": [{
+			"name": "Java"
+		},
+		{
+			"name": "Python"
+		},
+        {
+            "name": "C#"
+        },
+        {
+            "name": "C"
+        },
+        {
+            "name": "C++"
+        },
+        {
+            "name": "Machine learning"
+        },
+        {
+            "name": "Web application development"
+        },
+        {
+            "name":  "Android application development"
+        }
+
+	],
+	"interests": {
+		"paragraphOne": "I love doing competitive programming, like coding challenges. I also enjoy participating in hackathons and contributing to open source projects.",
+		"paragraphTwo": "When I am not coding, you can find me reading books or learning to cook."
+	},
+	"awards": [{
+			"awardDetail": "Graduated Bachelors with First Class with Honors."
+		},
+        {
+            "awardDetail": "General Proficiency Award "
+        },
+        {
+            "awardDetail": "Secured 99.89 percentile in Problem Solving Assessment, a national level aptitude test conducted by CBSE"
+        },
+        {
+            "awardDetail": "Third in State level essay writing competition"
+        },
+        {
+            "awardDetail": "First in district level essay writing and extempore competitions"
+        }
+	]
+}
